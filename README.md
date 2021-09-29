@@ -9,3 +9,4 @@ Learn the mathematics and theory that make machine learning possible
     * Section 1.4: [Norms & Unit Vectors](/linear-algebra/norms_unit.ipynb)
     * Section 1.5: [Basis, Orthogonal, & Orthonormal Vectors](/linear-algebra/orthogonal.ipynb)
     * Section 1.6: [Matrix Tensors](/linear-algebra/matrix_tensors.ipynb)
+    * Section 1.7: [Generic Tensor Notation](/linear-algebra/generic_tensor.ipynb)
